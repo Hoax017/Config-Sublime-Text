@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"42 Headers",
+		"Alignment",
+		"All Autocomplete",
+		"C Improved",
+		"Git",
+		"GitGutter",
+		"Glue",
+		"Makefile Improved",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Spacegray"
+	]
+}

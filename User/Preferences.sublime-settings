@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Makefile",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"scroll_past_end": true
+}
