@@ -6,7 +6,7 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
+	"scroll_past_end": true,
 	"theme": "Spacegray.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"scroll_past_end": true
+	"trim_trailing_white_space_on_save": true
 }
